@@ -1,1 +1,1 @@
-# AI-Prompts
+# Wi-fi QR Code
